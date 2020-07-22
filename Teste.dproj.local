@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/07/20 09:43:47.000.757,=C:\Users\PROGRAMACAO\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2020/07/20 11:03:22.000.100,C:\Users\PROGRAMACAO\Documents\Embarcadero\Studio\Projects\Unit2.dfm=D:\teste\uPrincipal.dfm</Transaction>
+    <Transaction>2020/07/20 11:03:22.000.100,C:\Users\PROGRAMACAO\Documents\Embarcadero\Studio\Projects\Unit2.pas=D:\teste\uPrincipal.pas</Transaction>
+    <Transaction>2020/07/20 11:03:28.000.312,C:\Users\PROGRAMACAO\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\teste\Teste.dproj</Transaction>
+    <Transaction>2020/07/20 11:13:39.000.911,=D:\teste\Unit1.pas</Transaction>
+    <Transaction>2020/07/20 11:14:42.000.582,=D:\teste\Unit1.pas</Transaction>
+    <Transaction>2020/07/20 11:15:46.000.179,=D:\teste\Unit2.pas</Transaction>
+    <Transaction>2020/07/20 11:16:33.000.486,D:\teste\uDmPrincipal.dfm=D:\teste\Unit2.dfm</Transaction>
+    <Transaction>2020/07/20 11:16:33.000.486,D:\teste\uDmPrincipal.pas=D:\teste\Unit2.pas</Transaction>
+    <Transaction>2020/07/20 11:40:23.000.159,=D:\teste\Unit1.pas</Transaction>
+    <Transaction>2020/07/20 11:40:46.000.508,D:\teste\Ucadastro.pas=D:\teste\Unit1.pas</Transaction>
+    <Transaction>2020/07/20 14:05:01.000.278,=D:\teste\Unit1.pas</Transaction>
+    <Transaction>2020/07/20 14:17:13.000.742,D:\teste\uEndereco.pas=D:\teste\Unit1.pas</Transaction>
+    <Transaction>2020/07/20 14:17:13.000.742,D:\teste\uEndereco.dfm=D:\teste\Unit1.dfm</Transaction>
+    <Transaction>2020/07/20 14:39:11.000.233,=D:\teste\Unit3.pas</Transaction>
+    <Transaction>2020/07/20 14:47:47.000.023,D:\teste\uPessoas.pas=D:\teste\Unit3.pas</Transaction>
+    <Transaction>2020/07/20 14:47:47.000.023,D:\teste\uPessoas.dfm=D:\teste\Unit3.dfm</Transaction>
+    <Transaction>2020/07/21 09:25:40.000.077,=D:\teste\Unit1.pas</Transaction>
+    <Transaction>2020/07/21 13:28:50.000.218,D:\teste\Unit1.pas=D:\teste\uDmCadastro.pas</Transaction>
+    <Transaction>2020/07/21 13:28:50.000.218,D:\teste\Unit1.dfm=D:\teste\uDmCadastro.dfm</Transaction>
+    <Transaction>2020/07/22 11:13:40.960,=D:\teste\Unit3.pas</Transaction>
+    <Transaction>2020/07/22 11:15:06.404,D:\teste\uFuncionario.dfm=D:\teste\Unit3.dfm</Transaction>
+    <Transaction>2020/07/22 11:15:06.404,D:\teste\uFuncionario.pas=D:\teste\Unit3.pas</Transaction>
+    <Transaction>2020/07/22 14:29:11.534,=D:\teste\Unit3.pas</Transaction>
+    <Transaction>2020/07/22 14:42:12.357,D:\teste\uEmpresa.pas=D:\teste\Unit3.pas</Transaction>
+    <Transaction>2020/07/22 14:42:12.358,D:\teste\uEmpresa.dfm=D:\teste\Unit3.dfm</Transaction>
+    <Transaction>2020/07/22 16:08:35.835,=D:\teste\Unit3.pas</Transaction>
+    <Transaction>2020/07/22 16:19:45.950,D:\teste\uCadEndereco.dfm=D:\teste\Unit3.dfm</Transaction>
+    <Transaction>2020/07/22 16:19:45.950,D:\teste\uCadEndereco.pas=D:\teste\Unit3.pas</Transaction>
+  </Transactions>
+</BorlandProject>
